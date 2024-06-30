@@ -1,0 +1,65 @@
+.menu-btn {
+    padding: 11px 16px;
+    background-color: #20ad96;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    transition: 0.3s ease;
+}
+
+.first-section {
+    display: flex;
+}
+
+/* 2nd section start */
+.help-section {
+    display: flex;
+}
+
+.card-part {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 32px;
+
+}
+
+/* 2nd section end */
+
+/* 4th section  start */
+.container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+
+}
+
+/* 4th section  end */
+/* 5th section start */
+.free-guide {
+    display: flex;
+}
+
+/* 5th section end */
+/* 6th section start */
+.online-session {
+    display: flex;
+}
+
+/* 6th section end */
+
+/* 7th section start */
+
+
+.enter {
+    display: flex;
+}
+
+/* 7th section end */
+/* footer */
+.footer-content {
+    display: flex;
+    gap: 10px;
+}
